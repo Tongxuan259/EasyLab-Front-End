@@ -1,5 +1,5 @@
-# easylab
-
+# Easylab
+Front-end part for final project of undergraduate course: Software Engineering at Tongji university.
 ## Project setup
 ```
 npm install
